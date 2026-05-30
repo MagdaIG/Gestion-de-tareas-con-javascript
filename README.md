@@ -1,3 +1,5 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 # Gestión de Tareas con Supabase
 
 Una aplicación web para gestionar tareas con autenticación de usuarios usando Supabase. Esta aplicación permite crear, organizar y gestionar tareas de manera eficiente con una interfaz moderna y intuitiva.
